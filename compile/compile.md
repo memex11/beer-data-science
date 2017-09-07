@@ -17,7 +17,7 @@ For some interactive clustering, check out the [Shiny app](https://amandadobbyn.
 
 # Motivation and Overview
 
-This is a first pass exploration of different aspects of beer. The 63,000 or so beers worth of data data was collected via the [BreweryDB](http://www.brewerydb.com/developers) API. Special thanks to [Kris Kroski](https://kro.ski/) for data ideation and co-membership in the honourable Workplace Beer Consortium.
+This is a first pass exploration of different aspects of beer. The 63,000 or so beers worth of data was collected via the [BreweryDB](http://www.brewerydb.com/developers) API. Special thanks to [Kris Kroski](https://kro.ski/) for data ideation and co-membership in the honourable Workplace Beer Consortium.
 
 The main question this analysis is meant to tackle is: are beer styles actually indicative of shared attributes of the beers within that style? Or are style boundaries more or less arbitrary? Is an IPA an IPA because it's really distinguishable as such from other beers, or is it an IPA because that's what it says on the label? I took two approaches to answer this question: unsupervised clustering and supervised prediction. 
 
